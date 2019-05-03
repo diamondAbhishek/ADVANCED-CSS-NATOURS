@@ -18,6 +18,10 @@
 
 1. Navigate into project folder using the terminal commands.
 
+1. To run the downloaded file / clone file.(After the above steps)
+```
+  npm run start
+```
 1. Create package.json file by typing *npm init* in the terminal.
     + The prompt will prompt several questions for creating the file. In most cases the fields can be left blank or default values used.
     + If you download/clone project and want to install all dependencies simply run *npm install* in the terminal and 
@@ -28,7 +32,5 @@
     + The --save-dev saves the development dependencie in the package.json file.
     + Other packages such as jQuery should be saved as *--save* because they are non-development dependencies.
     + To uninstall a package (jQuery example) type *npm uninstall jquery --save* in the terminal.
-```
-  npm run start
-```
+
   
