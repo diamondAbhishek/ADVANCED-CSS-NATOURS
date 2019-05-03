@@ -1,1 +1,10 @@
-/node_modules
+# Ignore npm files 
+node_modules/
+
+# Ignore intermediate CSS files
+css/style.comp.css
+css/style.concat.css
+css/style.prefix.css
+
+# Ignore package-lock Json files
+package-lock.json
