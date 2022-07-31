@@ -33,4 +33,7 @@
     + Other packages such as jQuery should be saved as *--save* because they are non-development dependencies.
     + To uninstall a package (jQuery example) type *npm uninstall jquery --save* in the terminal.
 
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/ADVANCED-CSS-NATOURS/count.svg" alt ="Loading">
   
